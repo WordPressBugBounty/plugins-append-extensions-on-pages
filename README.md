@@ -1,0 +1,1 @@
+# plugins-append-extensions-on-pages
